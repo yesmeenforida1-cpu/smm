@@ -7,7 +7,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQu
 logging.basicConfig(level=logging.WARNING)
 
 # ===== CONFIG =====
-BOT_TOKEN = "8652759001:AAGc9Ulh8JdhLAw35nra-d_vplLNTWgEFlk"
+BOT_TOKEN = ""
 ADMIN_ID = 7974704580
 BOT_NAME = "FREE SERVICE SMM FATHER"
 OWNER = "@SW_WAFK"
@@ -16,7 +16,7 @@ API_URL = "https://smmhid.com/api/v2"
 
 # ===== SMM API KEY ROTATION (4-5 টা কী রোটেট হবে) =====
 SMM_KEYS = [
-    "74217ee4b8821adef13d3f3cf52806f0",   # Key 1
+    "",   # Key 1
     "PUT_YOUR_2ND_KEY_HERE",               # Key 2
     "PUT_YOUR_3RD_KEY_HERE",               # Key 3
     "PUT_YOUR_4TH_KEY_HERE",               # Key 4
